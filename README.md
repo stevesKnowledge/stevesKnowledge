@@ -8,7 +8,7 @@ I am using the [Obsidian](https://obsidian.md/) tool to construct these repos.
 # Repositories 
 
  * [KnowledgeSystems](https://github.com/stevesKnowledge/KnowledgeSystems) - Information on Constructing and Organizing this type of System, and the Obsidian tool
- * [KnowledgeSoftware](https://github.com/stevesKnowledge/KnowledgeSystems) - Notes on Software Development
+ * [KnowledgeSoftware](https://github.com/stevesKnowledge/KnowledgeSoftware) - Notes on Software Development
 
 Refer to the Readme on Knowledge Systems for more information about the why and how. 
 
